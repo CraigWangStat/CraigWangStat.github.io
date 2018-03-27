@@ -1,23 +1,17 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: eggCounts
+    link: "https://cran.r-project.org/package=eggCounts"
+    tagline: "An R package that models faecal egg count data to assess anthelmintic efficacy, using Bayesian hierarchical model with Stan"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: variosig
+    link: "https://cran.r-project.org/package=variosig"
+    tagline: "An R package that checks spatial dependence using permutation test adjusted for multiple testing."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: "shiny application: rPackageStats"
+    link: "https://craigwang.shinyapps.io/rPackageStats/"
+    tagline: "A data visualization tool for R users to view popularity of packages."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: "shiny application: gymi"
+    link: "https://t.uzh.ch/se"
+    tagline: "An educational tool for statistics classes at high school level."
