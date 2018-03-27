@@ -1,21 +1,21 @@
 projects:
   - project:
     title: "R package: eggCounts"
-    link: "https://cran.r-project.org/package=eggCounts"
+    link: "cran.r-project.org/package=eggCounts"
     authors: (author, maintainer)
     tagline: "An R package that models faecal egg count data to assess anthelmintic efficacy, using Bayesian hierarchical model with Stan"
   - project:
     title: "R package: variosig"
-    link: "https://cran.r-project.org/package=variosig"
+    link: "cran.r-project.org/package=variosig"
     authors: (author, maintainer)
     tagline: "An R package that checks spatial dependence using permutation test adjusted for multiple testing."
   - project:
     title: "shiny application: rPackageStats"
-    link: "https://craigwang.shinyapps.io/rPackageStats/"
+    link: "craigwang.shinyapps.io/rPackageStats/"
     authors: (author)
     tagline: "A data visualization tool for R users to view popularity of packages."
   - project:
     title: "shiny application: gymi"
-    link: "https://t.uzh.ch/se"
+    link: "t.uzh.ch/se"
     authors: (co-author)
     tagline: "An educational tool for statistics classes at high school level."
