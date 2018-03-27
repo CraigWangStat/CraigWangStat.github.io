@@ -1,9 +1,10 @@
 - interest:
-  item: Climbing
-  link:
+  item: R
 - interest:
-  item: Snowboarding
-  link:
+  item: R shiny
 - interest:
-  item: Cooking
-  link:
+  item: SQL
+- interest:
+  item: Git
+- interest:
+  item: QGIS
