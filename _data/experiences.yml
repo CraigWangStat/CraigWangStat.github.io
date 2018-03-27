@@ -1,10 +1,17 @@
 - experience:
+  role: Freelance Statistician and R Programmer
+  time: 06.2016 - present
+  company: Self-employed
+  details: "• Implement R shiny apps for medical applications <br>
+• Migrate R code to server, implement process automation in stock market analysis <br>
+• Implement existing econometric model in R to analyze panel data"
+- experience:
   role: R Programmer
   time: 10.2015 - 02.2016
   company: University of Zurich – Department of Mathematics
-  details: "Implemented various R shiny apps"
+  details: "• Implemented various R shiny apps"
 - experience:
-  role: Intern Biostatistician
+  role: Biostatistician Intern
   time: 07.2015 - 09.2015
   company: Novartis Pharma AG – Biostatistical Sciences and Pharmacometrics
   details: "• Conducted meta-analysis based on historical aggregate data <br> • Performed simulation using Bayesian hierarchical models in SAS and Stan"
@@ -16,5 +23,18 @@
 - experience:
   role: Student Consultant
   time: 02.2015 - 06.2015
-  company: Novartis Pharma AG – Biostatistical Sciences and Pharmacometrics
+  company: AGROSCOPE
   details: "• Investigated effects of fertilizer application on crop yield characteristics based on a 20-year agricultural field study conducted in Switzerland <br> • Analyzed soil sustainability over time"
+- experience:
+  role: Associate Consultant
+  time: 07.2014 - 09.2014
+  company: Australian National University – Statistical Consulting Unit
+  details: "• Provided professional statistical advice on experimental design and data analysis <br>
+• Analysed datasets for researchers in biology, chemistry and medical science <br>
+• Produced analyses reports and communicated the results with clients"
+- experience:
+  role: Research Intern
+  time: 11.2012 - 02.2013
+  company: Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+  details: "• Developed an algorithm in Java for finding optimal locations of base stations <br>
+• Presented the results of the project at an internal conference"
