@@ -10,6 +10,11 @@ projects:
     authors: (author, maintainer)
     tagline: "An R package that checks spatial dependence using permutation test adjusted for multiple testing."
   - project:
+    title: "R package: ATR"
+    link: "cran.r-project.org/package=ATR"
+    authors: (contributer)
+    tagline: "An R package that plot partition trees in left-right orientation."
+  - project:
     title: "shiny application: rPackageStats"
     link: "craigwang.shinyapps.io/rPackageStats/"
     authors: (author)
@@ -19,3 +24,4 @@ projects:
     link: "t.uzh.ch/se"
     authors: (co-author)
     tagline: "An educational tool for statistics classes at high school level."
+

@@ -1,6 +1,6 @@
 # Site Settings
 title: Craig Wang's Resume
-url: 'https://craigwanguzh.github.io/'
+url: 'http://'
 baseurl: '/CraigWangUZH.github.io' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -17,7 +17,7 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Craig Wang
 tagline: Statistician
 pic: id.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'This is my career.'
+summary: 'A well-versed statistician who is passionate about problem solving.'
 
 #sidebar links
 email: craigwang247♡gmail.com
