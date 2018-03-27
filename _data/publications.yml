@@ -1,10 +1,10 @@
 publications:
   - paper:
-    title: " Local-likelihood transformation kernel density estimation for positive random variables"
+    title: "Local-likelihood transformation kernel density estimation for positive random variables"
     authors: Geenens, G and Wang, C.
-    conference: SJournal of Computational and Graphical Statistics. (2018)
+    conference: Journal of Computational and Graphical Statistics. (2018)
   - paper:
-    title: " Generalized Spatial Fusion Model Framework for Joint Analysis of Point and Areal Data"
+    title: "Generalized Spatial Fusion Model Framework for Joint Analysis of Point and Areal Data"
     authors: Wang, C., Puhan, M.A., and Furrer, R.
     conference: Spatial Statistics. (2018)
   - paper:
