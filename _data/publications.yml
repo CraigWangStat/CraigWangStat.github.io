@@ -1,21 +1,21 @@
 publications:
   - paper:
     title: <a href="https://doi.org/10.1080/10618600.2018.1424636" target="_blank">Local-likelihood transformation kernel density estimation for positive random variables</a>
-    authors: Geenens, G and Wang, C.
+    authors: Geenens, G and <u>Wang, C.</u>
     conference: Journal of Computational and Graphical Statistics. (2018)
   - paper:
-    title: "Generalized spatial fusion model framework for joint analysis of point and areal data"
-    authors: Wang, C., Puhan, M.A., and Furrer, R.
+    title: <a href="https://doi.org/10.1016/j.spasta.2017.11.006" target="_blank">Generalized spatial fusion model framework for joint analysis of point and areal data
+    authors: <u>Wang, C.</u>, Puhan, M.A., and Furrer, R.
     conference: Spatial Statistics. (2018)
   - paper:
-    title: "Evidence synthesis from aggregate recurrent event data for clinical trial design and analysis"
-    authors: Holzhauer, B., Wang, C., and Schmidli, H.
+    title: <a href="https://doi.org/10.1002/sim.7549" target="_blank">Evidence synthesis from aggregate recurrent event data for clinical trial design and analysis
+    authors: Holzhauer, B., <u>Wang, C.</u>, and Schmidli, H.
     conference: Statistics in Medicine. (2018)
   - paper:
-    title: "Zero-inflated hierarchical models for faecal egg counts to assess anthelmintic efficacy."
-    authors: Wang, C., Torgerson, P.R., Höglund, J. and Furrer, R
+    title: <a href="https://doi.org/10.1016/j.vetpar.2016.12.007" target="_blank">Zero-inflated hierarchical models for faecal egg counts to assess anthelmintic efficacy
+    authors: <u>Wang, C.</u>, Torgerson, P.R., Höglund, J. and Furrer, R
     conference: "Veterinary Parasitology. (2017)"
   - paper:
-    title: "Call completion probability in heterogeneous networks with energy harvesting base stations"
-    authors: Wang, C., Durrani, S., Guo, J. and Zhou, X.
+    title: <a href="http://ieeexplore.ieee.org/document/7124681/" target="_blank">Call completion probability in heterogeneous networks with energy harvesting base stations
+    authors: <u>Wang, C.</u>, Durrani, S., Guo, J. and Zhou, X.
     conference: "22nd International Conference on Telecommunications. (2015)"
