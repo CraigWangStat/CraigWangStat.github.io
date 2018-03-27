@@ -1,6 +1,6 @@
 publications:
   - paper:
-    title: "Local-likelihood transformation kernel density estimation for positive random variables"
+    title: <a href="https://doi.org/10.1080/10618600.2018.1424636" target="_blank">Local-likelihood transformation kernel density estimation for positive random variables</a>
     authors: Geenens, G and Wang, C.
     conference: Journal of Computational and Graphical Statistics. (2018)
   - paper:

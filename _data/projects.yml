@@ -1,27 +1,27 @@
 projects:
   - project:
     title: "R package: eggCounts"
-    link: "cran.r-project.org/package=eggCounts"
+    link: "https://cran.r-project.org/package=eggCounts"
     authors: (author, maintainer)
     tagline: "An R package that models faecal egg count data to assess anthelmintic efficacy, using Bayesian hierarchical model with Stan"
   - project:
     title: "R package: variosig"
-    link: "cran.r-project.org/package=variosig"
+    link: "https://cran.r-project.org/package=variosig"
     authors: (author, maintainer)
     tagline: "An R package that checks spatial dependence using permutation test adjusted for multiple testing."
   - project:
     title: "R package: ATR"
-    link: "cran.r-project.org/package=ATR"
+    link: "https://cran.r-project.org/package=ATR"
     authors: (contributer)
     tagline: "An R package that plot partition trees in left-right orientation."
   - project:
     title: "shiny application: rPackageStats"
-    link: "craigwang.shinyapps.io/rPackageStats/"
+    link: "https://craigwang.shinyapps.io/rPackageStats/"
     authors: (author)
     tagline: "A data visualization tool for R users to view popularity of packages."
   - project:
     title: "shiny application: gymi"
-    link: "t.uzh.ch/se"
+    link: "http://t.uzh.ch/se"
     authors: (co-author)
     tagline: "An educational tool for statistics classes at high school level."
 
