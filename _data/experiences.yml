@@ -23,7 +23,7 @@
 - experience:
   role: Student Consultant
   time: 02.2015 - 06.2015
-  company: AGROSCOPE
+  company: AGROSCOPE, Switzerland
   details: "• Investigated effects of fertilizer application on crop yield characteristics based on a 20-year agricultural field study conducted in Switzerland <br> • Analyzed soil sustainability over time"
 - experience:
   role: Associate Consultant
@@ -32,9 +32,3 @@
   details: "• Provided professional statistical advice on experimental design and data analysis <br>
 • Analysed datasets for researchers in biology, chemistry and medical science <br>
 • Produced analyses reports and communicated the results with clients"
-- experience:
-  role: Research Intern
-  time: 11.2012 - 02.2013
-  company: Commonwealth Scientific and Industrial Research Organisation (CSIRO)
-  details: "• Developed an algorithm in Java for finding optimal locations of base stations <br>
-• Presented the results of the project at an internal conference"
