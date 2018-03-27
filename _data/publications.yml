@@ -1,8 +1,10 @@
-intro: <ul>
+intro: 
+<ul>
   <li>{{{Coffee}}}</li>
   <li>{{{Tea}}}</li>
   <li>{{{Milk}}}</li>
 </ul>
+
 publications:
   - paper:
     title: " Local-likelihood transformation kernel density estimation for positive random variables"
