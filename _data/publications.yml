@@ -1,15 +1,26 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: " Local-likelihood transformation kernel density estimation for positive random variables"
+    authors: Geenens, G and Wang, C.
+    conference: SJournal of Computational and Graphical Statistics. (2018)
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: " Generalized Spatial Fusion Model Framework for Joint Analysis of Point and Areal Data"
+    authors: Wang, C., Puhan, M.A., and Furrer, R.
+    conference: Spatial Statistics. (2018)
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: "Evidence synthesis from aggregate recurrent event data for clinical trial design and analysis"
+    authors: Holzhauer, B., Wang, C., and Schmidli, H.
+    conference: Statistics in Medicine. (2018)
+  - paper:
+    title: "Zero-inflated hierarchical models for faecal egg counts to assess anthelmintic efficacy."
+    authors: Wang, C., Torgerson, P.R., Höglund, J. and Furrer, R
+    conference: "Veterinary Parasitology. (2017)"
+  - paper:
+    title: "Call completion probability in heterogeneous networks with energy harvesting base stations"
+    authors: Wang, C., Durrani, S., Guo, J. and Zhou, X.
+    conference: "22nd International Conference on Telecommunications. (2015)"
