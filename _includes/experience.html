@@ -13,27 +13,16 @@
       </div><!--//upper-row-->
 
       <div class="company">{{ experience.company }}</div>
-
+{% if experience.logo %}
+      <img class="logo-img" src="{{site.baseurl}}/assets/images/{{ experience.logo }}"/>
+{% endif %}
     </div><!--//meta-->
 
     {% if experience.details %}
-    <table>
-     <tbody>
-{% if experience.logo %}
-      <tr>
-       <td><img class="logo-img" src="{{site.baseurl}}/assets/images/{{ experience.logo }}"/></td>
-      </tr>
-{% endif %}
-      <tr>
-       <td><div class="details">
-            <p>{{ experience.details }}</p>
-           </div><!--//details-->
-       </td>
-      </tr>
-     </tbody>
-    </table>
-    
-{% endif %}
+       <div class="details">
+        <p>{{ experience.details }}</p>
+       </div><!--//details-->
+    {% endif %}
 
 
   </div><!--//item-->
