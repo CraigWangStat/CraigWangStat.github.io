@@ -17,9 +17,19 @@
     </div><!--//meta-->
 
     {% if experience.details %}
-    <div class="details">
-      <p>{{ experience.details }}</p>
-    </div><!--//details-->
+    <table>
+     <tbody>
+      <tr>
+       <td><img class="profile-img" src="{{site.baseurl}}/assets/images/{{ experience.logo }}" alt="logo" /></td>
+      </tr>
+      <tr>
+       <td><div class="details">
+            <p>{{ experience.details }}</p>
+           </div><!--//details-->
+       </td>
+      </tr>
+     </tbody>
+    </table>
     {% endif %}
 
   </div><!--//item-->
