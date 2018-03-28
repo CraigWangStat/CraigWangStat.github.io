@@ -17,12 +17,13 @@
     </div><!--//meta-->
 
     {% if experience.details %}
-      {% if experience.logo %}
     <table>
      <tbody>
+{% if experience.logo %}
       <tr>
        <td><img class="profile-img" src="{{site.baseurl}}/assets/images/{{ experience.logo }}"/></td>
       </tr>
+{% endif %}
       <tr>
        <td><div class="details">
             <p>{{ experience.details }}</p>
@@ -31,14 +32,10 @@
       </tr>
      </tbody>
     </table>
-    {% endif %}
+    
 {% endif %}
 
-    {% if experience.details %}
-   <div class="details">
-<p>{{ experience.details }}</p>
-           </div><!--//details-->
-    {% endif %}
+
   </div><!--//item-->
 {% endfor %}
 
