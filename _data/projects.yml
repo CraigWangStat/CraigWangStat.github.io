@@ -12,7 +12,7 @@ projects:
   - project:
     title: "R package: ATR"
     link: "https://cran.r-project.org/package=ATR"
-    authors: (contributer)
+    authors: (contributor)
     tagline: "An R package that plot partition trees in left-right orientation."
   - project:
     title: "shiny application: rPackageStats"
