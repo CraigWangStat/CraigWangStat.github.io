@@ -9,34 +9,29 @@
   role: R Programmer
   time: 10.2015 - 02.2016
   company: University of Zurich – Department of Mathematics
-  logo: uzh.jpg
   details: "• Implemented various R shiny apps <br> • Collaborated using Git"
 - experience:
   role: Biostatistician Intern
   time: 07.2015 - 09.2015
   company: Novartis Pharma AG – Biostatistical Sciences and Pharmacometrics
-  logo: novartis.jpg
   details: "• Conducted meta-analysis based on historical aggregate data <br>
 • Performed simulation using Bayesian hierarchical models in SAS and Stan"
 - experience:
   role: Research Assistant
   time: 02.2015 - 12.2015
   company: ETH Zurich – Department of Management, Technology and Economics (D-MTEC)
-  logo: eth.png
   details: "• Performed various multivariate data exploration and analysis tasks <br>
 • Presented and discussed analysis results in project meetings"
 - experience:
   role: Student Consultant
   time: 02.2015 - 06.2015
   company: AGROSCOPE, Switzerland
-  logo: agro.png
   details: "• Investigated effects of fertilizer application on crop yield characteristics based on a 20-year agricultural field study conducted in Switzerland <br>
 • Analyzed soil sustainability over time"
 - experience:
   role: Associate Consultant
   time: 07.2014 - 09.2014
   company: Australian National University – Statistical Consulting Unit
-  logo: anu.jpg
   details: "• Provided professional statistical advice on experimental design and data analysis <br>
 • Analyzed datasets for researchers in biology, chemistry and medical science <br>
 • Produced analyses reports and communicated the results with clients"
