@@ -15,12 +15,14 @@
   role: Biostatistician Intern
   time: 07.2015 - 09.2015
   company: Novartis Pharma AG – Biostatistical Sciences and Pharmacometrics
+  logo: novartis.jpg
   details: "• Conducted meta-analysis based on historical aggregate data <br>
 • Performed simulation using Bayesian hierarchical models in SAS and Stan"
 - experience:
   role: Research Assistant
   time: 02.2015 - 12.2015
   company: ETH Zurich – Department of Management, Technology and Economics (D-MTEC)
+  logo: eth.png
   details: "• Performed various multivariate data exploration and analysis tasks <br>
 • Presented and discussed analysis results in project meetings"
 - experience:
