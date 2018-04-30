@@ -10,6 +10,11 @@ projects:
     authors: (author, maintainer)
     tagline: "An R package that checks spatial dependence using permutation test adjusted for multiple testing."
   - project:
+    title: "R package: eggCountsExtra"
+    link: "https://github.com/CraigWangUZH/eggCountsExtra"
+    authors: (author, maintainer)
+    tagline: "An R package that provides additional models and functions for analyzing faecal egg count data to assess anthelmintic efficacy"
+  - project:
     title: "R package: ATR"
     link: "https://cran.r-project.org/package=ATR"
     authors: (contributor)
