@@ -1,0 +1,19 @@
+{% if site.data.interests %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">Beliefs</h2>
+
+    <ul class="list-unstyled interests-list">
+      {% for belief in site.data.beliefs %}
+
+      {% if belief.link %}
+        <li><a href="{{ belief.link }}">{{ belief.item }}</a></li>
+        {% else %}
+        <li>{{ belief.item }}</li>
+        {% endif %}
+
+      {% endfor %}
+    </ul>
+
+</div><!--//interests-->
+{% endif %}
