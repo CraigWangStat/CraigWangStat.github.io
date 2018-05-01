@@ -1,7 +1,7 @@
 publications:
   - paper:
     title: <a href="https://arxiv.org/abs/1804.11224" target="_blank">eggCounts - a Bayesian hierarchical toolkit to model faecal egg count reductions</a> 
-    authors: <u>Wang, C. and Furrer, R.</u>
+    authors: <u>Wang, C.</u> and Furrer, R.
     conference: ArXiv - Statistics Computation. (2018)
   - paper:
     title: <a href="https://doi.org/10.1080/10618600.2018.1424636" target="_blank">Local-likelihood transformation kernel density estimation for positive random variables</a> 
