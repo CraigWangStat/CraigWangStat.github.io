@@ -25,6 +25,11 @@ projects:
     authors: (author)
     tagline: "A data visualization tool for R users to view popularity of packages."
   - project:
+    title: "shiny application: shiny-eggCounts"
+    link: "http://t.uzh.ch/D1"
+    authors: (co-author)
+    tagline: "A graphical user interface for the package eggCounts."
+  - project:
     title: "shiny application: gymi"
     link: "http://t.uzh.ch/se"
     authors: (co-author)
