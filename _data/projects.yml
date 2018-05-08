@@ -3,22 +3,22 @@ projects:
     title: "R package: eggCounts"
     link: "https://cran.r-project.org/package=eggCounts"
     authors: (author, maintainer)
-    tagline: "An R package that models faecal egg count data to assess anthelmintic efficacy, using Bayesian hierarchical model with Stan"
+    tagline: "Models faecal egg count data to assess anthelmintic efficacy using Bayesian hierarchical model with Stan"
   - project:
     title: "R package: variosig"
     link: "https://cran.r-project.org/package=variosig"
     authors: (author, maintainer)
-    tagline: "An R package that checks spatial dependence using permutation test adjusted for multiple testing."
+    tagline: "Checks spatial dependence using permutation test adjusted for multiple testing."
   - project:
     title: "R package: eggCountsExtra"
     link: "https://github.com/CraigWangUZH/eggCountsExtra"
     authors: (author, maintainer)
-    tagline: "An R package that provides additional models and functions for analyzing faecal egg count data to assess anthelmintic efficacy"
+    tagline: "Provides additional models and functions for analyzing faecal egg count data"
   - project:
     title: "R package: ATR"
     link: "https://cran.r-project.org/package=ATR"
     authors: (contributor)
-    tagline: "An R package that plot partition trees in left-right orientation."
+    tagline: "Plot partition trees in left-right orientation."
   - project:
     title: "shiny application: rPackageStats"
     link: "https://craigwang.shinyapps.io/rPackageStats/"
