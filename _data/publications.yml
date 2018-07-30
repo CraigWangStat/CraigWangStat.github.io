@@ -3,7 +3,7 @@ publications:
     title: Modelling anthelmintic resistance by extending eggCounts package 
 to allow individual efficacy</a> 
     authors: <u>Wang, C.</u>, Torgerson, P.R., Kaplan, R.M. George., M.M and Furrer, R.
-    conference: "International Journal for Parasitology: Drugs and Drug Resistance. (2018)"
+    conference: International Journal for Parasitology &colon; Drugs and Drug Resistance. (2018)
   - paper:
     title: <a href="https://arxiv.org/abs/1804.11224" target="_blank">eggCounts - a Bayesian hierarchical toolkit to model faecal egg count reductions</a> 
     authors: <u>Wang, C.</u> and Furrer, R.
