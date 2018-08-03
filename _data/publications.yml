@@ -1,6 +1,6 @@
 publications:
   - paper:
-    title: Modelling anthelmintic resistance by extending eggCounts package to allow individual efficacy 
+    title: <a href="https://doi.org/10.1016/j.ijpddr.2018.07.003" target="_blank">Modelling anthelmintic resistance by extending eggCounts package to allow individual efficacy</a>
     authors: <u>Wang, C.</u>, Torgerson, P.R., Kaplan, R.M. George., M.M and Furrer, R.
     conference: "International Journal for Parasitology: Drugs and Drug Resistance. (2018)"
   - paper:
