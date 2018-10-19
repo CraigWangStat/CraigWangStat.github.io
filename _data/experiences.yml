@@ -1,10 +1,15 @@
-- experience:
+﻿- experience:
   role: Freelance Statistician and R Programmer
   time: 06.2016 - present
   company: Self-employed
   details: "• Implemented R shiny apps for medical applications <br>
 • Migrated R code to server, implemented process automation in stock market analysis <br>
 • Implemented existing econometric model in R to analyze panel data"
+- experience:
+  role: Teaching Assistant and Statistical Consultant
+  company: University of Zurich - Department of Mathematics
+  details: "• Lead exercise classes and design questions for master-level statistics courses <br>
+• Provide statistical advice to academics from Faulty of Science"
 - experience:
   role: R Programmer
   time: 10.2015 - 02.2016
@@ -26,7 +31,7 @@
   role: Student Consultant
   time: 02.2015 - 06.2015
   company: AGROSCOPE, Switzerland
-  details: "• Investigated effects of fertilizer application on crop yield characteristics based on a 20-year agricultural field study conducted in Switzerland <br>
+  details: "• Investigated effects of fertilizer application on crop yield characteristics in an agricultural study <br>
 • Analyzed soil sustainability over time"
 - experience:
   role: Associate Consultant
@@ -35,3 +40,14 @@
   details: "• Provided professional statistical advice on experimental design and data analysis <br>
 • Analyzed datasets for researchers in biology, chemistry and medical science <br>
 • Produced analyses reports and communicated the results with clients"
+- experience:
+  role: Research Assistant
+  time: 01.2014 - 02.2014
+  company: University of New South Wales – School of Mathematics and Statistics
+  details: "Proposed and published a transformation method for kernel density estimation"
+- experience:
+  role: Research Intern
+  time: 11.2012 - 01.2013
+  company: Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney
+  details: "• Developed an algorithm in Java for finding optimal locations of base stations <br>
+• Presented the results of the project at an internal conference"
