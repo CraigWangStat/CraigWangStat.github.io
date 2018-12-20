@@ -8,7 +8,7 @@ projects:
     title: "R package: variosig"
     link: "https://cran.r-project.org/package=variosig"
     authors: (author, maintainer)
-    tagline: "Checks spatial dependence using permutation test adjusted for multiple testing."
+    tagline: "Testing spatial dependence using empirical variograms."
   - project:
     title: "R package: eggCountsExtra"
     link: "https://github.com/CraigWangUZH/eggCountsExtra"

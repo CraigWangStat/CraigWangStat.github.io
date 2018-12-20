@@ -1,5 +1,9 @@
 publications:
   - paper:
+    title: <a href="https://doi.org/10.1002/sta4.216" target="_blank">Efficient Estimation of Generalized Spatial Fusion Models with Flexible Specification</a>
+    authors: <u>Wang, C.</u>, and Furrer, R.
+    conference: "Stat. (2018)"
+  - paper:
     title: <a href="https://doi.org/10.1016/j.ijpddr.2018.07.003" target="_blank">Modelling anthelmintic resistance by extending eggCounts package to allow individual efficacy</a>
     authors: <u>Wang, C.</u>, Torgerson, P.R., Kaplan, R.M. George., M.M and Furrer, R.
     conference: "International Journal for Parasitology: Drugs and Drug Resistance. (2018)"
