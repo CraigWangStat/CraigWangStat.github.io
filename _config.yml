@@ -1,4 +1,4 @@
-# Site Settings
+﻿# Site Settings
 title: Craig Wang's Resume
 url: 'http://craigwanguzh.github.io'
 baseurl: '/CraigWangUZH.github.io' #change it according to your repository name
@@ -15,7 +15,7 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 #Profile information
 name: Craig Wang
-tagline: Statistician
+tagline: Statistician/Data Scientist
 pic: id.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'A well-versed statistician who is passionate about problem solving.'
 
