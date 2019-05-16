@@ -1,9 +1,14 @@
 projects:
   - project:
+    title: "R package: spatialfusion"
+    link: "https://cran.r-project.org/package=spatialfusion"
+    authors: (author, maintainer)
+    tagline: "Multivariate modelling of spatial data in a unifying fusion framework."
+  - project:
     title: "R package: eggCounts"
     link: "https://cran.r-project.org/package=eggCounts"
     authors: (author, maintainer)
-    tagline: "Models faecal egg count data to assess anthelmintic efficacy using Bayesian hierarchical model with Stan"
+    tagline: "Models faecal egg count data to assess anthelmintic efficacy using Bayesian hierarchical model with Stan."
   - project:
     title: "R package: variosig"
     link: "https://cran.r-project.org/package=variosig"
