@@ -1,7 +1,7 @@
 ﻿# Site Settings
 title: Craig Wang's Resume
-url: 'http://craigwanguzh.github.io'
-baseurl: '/CraigWangUZH.github.io' #change it according to your repository name
+url: 'http://craigwangstat.github.io'
+baseurl: '/CraigWangStat.github.io' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
